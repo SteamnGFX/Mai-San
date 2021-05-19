@@ -1,0 +1,10 @@
+{
+    "name": "Mai-San Senpai",
+    "description": "Best Waifu of wold for ever.",
+    "version": "1",
+    "author": "Jacare #3219",
+    "editor": "SteamnGFX#2491",
+    "theme": "Mai-San.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
